@@ -1,0 +1,44 @@
+================================================================================
+LICENCJA I OSTRZEŻENIE / LICENSE AND SAFETY DISCLAIMER
+PROJEKT: SM076 CNG Reducer Controller - Mechanical Design
+WŁAŚCICIEL: SCALMAX Paweł Popławski
+================================================================================
+
+1. NOTA LICENCYJNA / LICENSE NOTICE (CERN-OHL-W v2)
+--------------------------------------------------------------------------------
+Ten rysunek mechaniczny oraz projekt korpusu reduktora są udostępniane przez
+SCALMAX Paweł Popławski na licencji CERN Open Hardware Licence v2 – Weakly
+Persistent. Każda redystrybucja lub modyfikacja dokumentacji wymaga zachowania
+informacji o autorze i udostępnienia jej na tych samych zasadach.
+
+This mechanical drawing and regulator body design are licensed by
+SCALMAX Paweł Popławski under the CERN-OHL-W v2. Any redistribution or
+modification of this documentation requires attribution and must be shared
+under the same license terms.
+
+Pełna treść licencji / Full license text: https://ohwr.org/cernohl
+
+2. OSTRZEŻENIE BEZPIECZEŃSTWA / SAFETY DISCLAIMER
+--------------------------------------------------------------------------------
+❗ RYZYKO WYBUCHU / EXPLOSION HAZARD:
+Projekt dotyczy urządzenia pracującego pod wysokim ciśnieniem gazu ziemnego (CNG).
+Błędny montaż, użycie niewłaściwych materiałów lub błędy w tolerancjach wymiarowych
+mogą prowadzić do rozszczelnienia, pożaru lub wybuchu.
+
+❗ ODPOWIEDZIALNOŚĆ / LIABILITY:
+Firma SCALMAX Paweł Popławski oraz autorzy nie ponoszą żadnej odpowiedzialności
+za jakiekolwiek szkody, awarie, wypadki lub straty mienia i zdrowia powstałe
+w wyniku wykonania, modyfikacji lub użytkowania urządzenia na podstawie
+niniejszej dokumentacji.
+
+❗ DECYZJA UŻYTKOWNIKA / USER RISK:
+Budujesz i testujesz to urządzenie wyłącznie na własne ryzyko. Dokumentacja
+ma charakter edukacyjny i open-source. BUILD AT YOUR OWN RISK.
+
+3. DANE FIRMY / COMPANY DETAILS
+--------------------------------------------------------------------------------
+SCALMAX Paweł Popławski
+ul. Polska 2, 15-624 Białystok, Polska
+NIP: 542-25-86-976
+WWW: www.scalmax.pl
+================================================================================
